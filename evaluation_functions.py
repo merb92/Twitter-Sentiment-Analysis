@@ -61,7 +61,7 @@ def confustion_matrix_and_classification_report(estimator, X, y, labels, set_nam
     predictions = estimator.predict(X)
 
     print(f'Classification Report for {set_name} Set')
-    print(classification_report(predictions, y, target_names=labels))
+    print(classification_report(y, predictions, target_names=labels))
 
     matrix = plot_confusion_matrix(estimator,
                                    X,
