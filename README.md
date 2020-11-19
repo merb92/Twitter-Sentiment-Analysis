@@ -57,4 +57,4 @@ Some text data is going to be more negative or more positive than others.  By cr
 
 # For Further Information
 
-Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb) or review the [presentation](https://github.com/merb92/Twitter-Sentiment-Analysis/blob/master/Twitter%20Sentiment%20Analysis%20Presentation.pdf).
+Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb), review the [presentation](https://github.com/merb92/Twitter-Sentiment-Analysis/blob/master/Twitter%20Sentiment%20Analysis%20Presentation.pdf), or read the related [blog article](https://medium.com/analytics-vidhya/pre-processing-tweets-for-sentiment-analysis-a74deda9993e).
